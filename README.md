@@ -1,4 +1,4 @@
-# ralt-dotfiles
+# ralt-all
 
 A package depending on many other packages.
 
