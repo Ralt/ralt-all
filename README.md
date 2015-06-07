@@ -13,8 +13,5 @@ What's left to package up:
 - sbcl/quicklisp-slime-helper
 - iojs
 - tmux
-- hipchat
-- evolution
-- skype
 - playonlinux
 - ... and surely other stuff
