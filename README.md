@@ -9,9 +9,7 @@ A package depending on many other packages.
 What's left to package up:
 
 - dropbox
-- emacs
 - sbcl/quicklisp-slime-helper
 - iojs
-- tmux
 - playonlinux
 - ... and surely other stuff
