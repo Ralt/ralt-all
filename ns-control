@@ -7,10 +7,10 @@ Priority: optional
 Standards-Version: 3.9.2
 
 Package: ralt-all
-Version: 1.0
+Version: 1.0-2
 # Maintainer: Your Name <yourname@example.com>
 # Pre-Depends: <comma-separated list of packages>
-Depends: ralt-awesome, ralt-gui, ralt-utils, ralt-apt
+Depends: ralt-awesome, ralt-gui, ralt-utils, ralt-apt, ralt-lisp
 # Recommends: <comma-separated list of packages>
 # Suggests: <comma-separated list of packages>
 # Provides: <comma-separated list of packages>
