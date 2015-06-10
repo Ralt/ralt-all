@@ -9,7 +9,6 @@ A package depending on many other packages.
 What's left to package up:
 
 - dropbox
-- sbcl/quicklisp-slime-helper
 - iojs
 - playonlinux
 - ... and surely other stuff
