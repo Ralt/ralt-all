@@ -9,6 +9,5 @@ A package depending on many other packages.
 What's left to package up:
 
 - dropbox
-- iojs
 - playonlinux
 - ... and surely other stuff
